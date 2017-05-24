@@ -1,0 +1,58 @@
+body {
+  background-image: url(http://d366w3m5tf0813.cloudfront.net/wp-content/uploads/barnards-star-1950-2013.gif);
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  color: lightgrey;
+  font-family: 'tangerine';
+}
+
+h1 {
+  float: left;
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+.navbar {
+  padding: 40px;
+}
+
+#nav-info {
+  float: right;
+  font-size: 50px;
+}
+
+#pee-main-pic {
+  width: 643.5px;
+  position: absolute;
+  left: 35%;
+  top: 130px;
+}
+
+.life {
+  max-width: 150px;
+  float:left;
+  padding: 5px;
+}
+
+.interests {
+  width: 500px;
+  float: right;
+  margin-left: 200px;
+}
+
+#hello {
+  float: left;
+  margin-left: 20px;
+}
+
+#content {
+  border-radius: 30px;
+  position: absolute;
+  top: 730px;
+  left: 300px;
+  background: rgba(188, 16, 34, 0.5);
+}
