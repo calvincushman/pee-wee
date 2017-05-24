@@ -50,6 +50,7 @@ h2 {
 }
 
 #content {
+  border: 20px solid orange;
   border-radius: 30px;
   position: absolute;
   top: 730px;
